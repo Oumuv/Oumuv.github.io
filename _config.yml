@@ -1,5 +1,5 @@
 # Site settings
-title: 欧银锋的博客
+title: Oumuv的博客
 SEOTitle: Oumuv的个人空间 | 博客
 header-img: img/home-bg.jpg
 email: 1134420025@qq.com
@@ -14,9 +14,9 @@ future: true
 # SNS settings
 RSS: false
 weibo_username:     Oumuv
-zhihu_username:     Oumuv
+#zhihu_username:     Oumuv
 github_username:    Oumuv
-twitter_username:   Oumuv
+#twitter_username:   Oumuv
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -68,11 +68,11 @@ netease_comment: false
 
 # Analytics settings
 # Baidu Analytics 
-# ba_track_id: [your track id]
+ ba_track_id: 9963438ce75567e8ebf45ce1bf749652
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: oumuv.xin
+#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+#ga_domain: oumuv.xin
 
 
 
