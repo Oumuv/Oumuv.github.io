@@ -4,7 +4,7 @@ SEOTitle: Oumuv的个人空间 | 博客
 header-img: img/home-bg.jpg
 email: 1134420025@qq.com
 description: "关于程序与设计 | 欧银锋 | 这里是 @Oumuv欧银锋 的个人博客，与你一起发现更大的世界。"
-keyword: "欧银锋, Oumuv欧银锋, Oumuv, huxpro, @huxpro, 欧银锋的博客, Oumuv Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
+keyword: "欧银锋, Oumuv欧银锋, Oumuv, Oumuv, @Oumuv, 欧银锋的博客, Oumuv Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
 url: "https://huangxuan.me"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -17,7 +17,7 @@ weibo_username:     Oumuv
 #zhihu_username:     Oumuv
 github_username:    Oumuv
 #twitter_username:   Oumuv
-#facebook_username:  huxpro
+#facebook_username:  Oumuv
 #linkedin_username:  firstname-lastname-idxxxx
 
 
