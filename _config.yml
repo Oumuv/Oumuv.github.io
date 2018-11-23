@@ -72,8 +72,8 @@ netease_comment: false
 #  client_secret: 'ff970d75a54ef8ab0b57654df993067319d77cc2'
 
 
-clientID: 8bf0b2ad254da2068481
-clientSecret: a09d91bce87a270dab51b9cd02e671cfd4b1108b
+clientID: ba2c6ddaecd82c3e1c41
+clientSecret: 9fb9fffa789500939fcfd4da5ffd48f9a0b4fb78
 repo: oumuv.github.io  #存储你评论 issue 的 Github 仓库名（建议直接用 GitHub Page 的仓库名）
 owner: Oumuv
 admin: ['Oumuv'] #这个仓库的管理员，可以有多个，用数组表示，一般写自己,
