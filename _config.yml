@@ -65,6 +65,14 @@ disqus_username: Oumuv
 netease_comment: false
 
 
+#Gitment
+gitment_owner: 'Oumuv'
+gitment_repo: 'oumuv.github.io'
+gitment_oauth:
+  client_id: '3c22165471ae0fdcd5d3'
+  client_secret: 'ff970d75a54ef8ab0b57654df993067319d77cc2'
+
+
 
 # Analytics settings
 # Baidu Analytics 
