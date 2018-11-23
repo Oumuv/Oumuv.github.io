@@ -77,8 +77,7 @@ clientSecret: 9fb9fffa789500939fcfd4da5ffd48f9a0b4fb78
 repo: oumuv.github.io  #存储你评论 issue 的 Github 仓库名（建议直接用 GitHub Page 的仓库名）
 owner: Oumuv
 admin: ['Oumuv'] #这个仓库的管理员，可以有多个，用数组表示，一般写自己,
-id: location.pathname #页面的唯一标识，gitalk 会根据这个标识自动创建的issue的标签,我们使用页面的相对路径作为标识
-
+distractionFreeMode: true
 
 
 
