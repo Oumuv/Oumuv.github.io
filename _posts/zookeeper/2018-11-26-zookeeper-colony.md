@@ -64,7 +64,8 @@ zookeeper3 | 2 | 2183
     > vim conf/zoo.cfg
 
     修改两个位置
-    ![](https://raw.githubusercontent.com/Oumuv/oumuv.github.io/master/img/2018/11/25/1.png)​
+
+    ![](https://raw.githubusercontent.com/Oumuv/oumuv.github.io/master/img/2018/11/26/1.png)​
 
     > dataDir 修改为该zookeeper的data位置
     > clientPort zookeeper的端口号
