@@ -71,11 +71,11 @@ zookeeper3 | 2 | 2183
     > clientPort zookeeper的端口号
 
     加入配置
-
-    > server.0=127.0.0.1:2888:3888
-    > server.1=127.0.0.1:2888:3888
-    > server.2=127.0.0.1:2888:3888
-
+```
+     server.0=127.0.0.1:2888:3888
+     server.1=127.0.0.1:2888:3888
+     server.2=127.0.0.1:2888:3888
+```
 
     解释：server.[zookeeper的编号]=[ip地址]:[通信端口]:[选举端口]
 
@@ -90,9 +90,10 @@ zookeeper3 | 2 | 2183
 - 5、搭建另外两个zookeeper
 
     - 1、可以直接使用第一个zookeeper（zookeeper1）作为基础搭建另外的两个：
-    > cp -r zookeeper1 zookeeper2
-    > cp -r zookeeper1 zookeeper3
-
+    ```
+    cp -r zookeeper1 zookeeper2
+    cp -r zookeeper1 zookeeper3
+    ```
     - 2、分别修改zookeeper2和zookeeper3的zoo.cfg
 
     zookeeper2：
