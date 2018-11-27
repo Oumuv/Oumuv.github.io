@@ -76,6 +76,7 @@ zookeeper3 | 2 | 2183
     > server.1=127.0.0.1:2888:3888
     > server.2=127.0.0.1:2888:3888
 
+
     解释：server.[zookeeper的编号]=[ip地址]:[通信端口]:[选举端口]
 
 
@@ -97,7 +98,7 @@ zookeeper3 | 2 | 2183
     zookeeper2：
     ![](https://raw.githubusercontent.com/Oumuv/oumuv.github.io/master/img/2018/11/26/3.png)​
 
-    zookeeper3
+    zookeeper3：
     ![](https://raw.githubusercontent.com/Oumuv/oumuv.github.io/master/img/2018/11/26/4.png)​
 
     - 3、分别修改zookeeper2和zookeeper3的myid
@@ -123,6 +124,8 @@ zkServer.sh start
 cd /Users/oumuv/solr/zookeeper3/bin
 zkServer.sh start
 ```
+
+
 赋予执行权限
 > chmod 755 startup-zoo.sh
 
@@ -140,6 +143,7 @@ zkServer.sh stop
 cd /Users/oumuv/solr/zookeeper3/bin
 zkServer.sh stop
 ```
+
 赋予执行权限
 > chmod 755 shutdown-zoo.sh
 
