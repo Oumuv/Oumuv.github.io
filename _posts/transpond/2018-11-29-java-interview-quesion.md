@@ -518,7 +518,7 @@ JRE 代表 Java 运行时（Java run-time），是运行 Java 引用所必须的
 JVM 中堆和栈属于不同的内存区域，使用目的也不同。栈常用于保存方法帧和局部变量，而对象总是在堆上分配。栈通常都比堆小，也不会在多个线程之间共享，而堆被整个 JVM 的所有线程共享。
 
   
-![](https://raw.githubusercontent.com/Oumuv/oumuv.github.io/master/img/2018/11/29/4.png)​
+![](https://raw.githubusercontent.com/Oumuv/oumuv.github.io/master/img/2018/11/29/4.jpeg)​
 
   
 
