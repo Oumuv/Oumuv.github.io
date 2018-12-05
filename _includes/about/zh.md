@@ -28,7 +28,7 @@ Hey，我是欧银锋，进化不够完整的猿类，多出没于[Github](https
 - [我的CSDN](https://blog.csdn.net/oumuv)
 - [我的Github](https://github.com/Oumuv)
 - [我的码云](https://gitee.com/oumuv/projects)
-- E-mail:1134420025@qq.com
+- E-mail:oumuv163@163.com
 
 ----
 ### 关于本站
@@ -37,7 +37,7 @@ Hey，我是欧银锋，进化不够完整的猿类，多出没于[Github](https
 - Theme from [@Huxpro](https://github.com/Huxpro/huxpro.github.io)
 - [方志朋](https://www.fangzhipeng.com/)的博客教程提供了参考
 
-博客如有内容侵权请联系我 E-mail:1134420025@qq.com 删除修改
+博客如有内容侵权请联系我 E-mail:oumuv163@163.com 修改
 
 时光在指尖敲击键盘的时候悄悄溜走，除了屏幕上那一行行印记其他什么都没有留下。
 
