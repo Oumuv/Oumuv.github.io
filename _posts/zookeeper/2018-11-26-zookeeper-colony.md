@@ -67,7 +67,7 @@ zookeeper3 | 2 | 2183
 
     ![](https://raw.githubusercontent.com/Oumuv/oumuv.github.io/master/img/2018/11/26/1.png)​
 
-    > dataDir 修改为该zookeeper的data位置
+    > dataDir 修改为该zookeeper的data位置   
     > clientPort zookeeper的端口号
 
     加入配置
@@ -84,22 +84,22 @@ zookeeper3 | 2 | 2183
 
     在data目录下创建一个myid文件，里面的内容是zookeeper的编号
     - 直接使用命令 echo 0 > myid
-    - 查看是否成功创建 cat myid
+    - 查看是否成功创建 cat myid  
     ![](https://raw.githubusercontent.com/Oumuv/oumuv.github.io/master/img/2018/11/26/2.png)​
 
 - 5、搭建另外两个zookeeper
 
     - 1、可以直接使用第一个zookeeper（zookeeper1）作为基础搭建另外的两个：
     ```
-    cp -r zookeeper1 zookeeper2
+    cp -r zookeeper1 zookeeper2    
     cp -r zookeeper1 zookeeper3
     ```
     - 2、分别修改zookeeper2和zookeeper3的zoo.cfg
 
-    zookeeper2：
+    zookeeper2：   
     ![](https://raw.githubusercontent.com/Oumuv/oumuv.github.io/master/img/2018/11/26/3.png)​
 
-    zookeeper3：
+    zookeeper3：   
     ![](https://raw.githubusercontent.com/Oumuv/oumuv.github.io/master/img/2018/11/26/4.png)​
 
     - 3、分别修改zookeeper2和zookeeper3的myid
@@ -152,7 +152,7 @@ zkServer.sh stop
 
 > ./startup-zoo.sh
 
-下图所示则zookeeper集群启动成功
+下图所示则zookeeper集群启动成功   
 ![](https://raw.githubusercontent.com/Oumuv/oumuv.github.io/master/img/2018/11/26/5.png)​
 
 分别在三个zookeeper的bin中执行 zkServer.sh status 命令，查看启动情况
