@@ -8,19 +8,19 @@ Hey，我是欧银锋，进化不够完整的猿类，多出没于[Github](https
 
 毕业于广西桂林电子科技大学计算机应用专业，职业是软件开发码农 + 运维农民工，半肉半输出偶尔打打辅助。在 java 的路上拼命狂奔。
 
-擅长微服务、负载均衡、分布式、缓存、容器，其他技能尚在开发中。
+擅长微服务、负载均衡、分布式、缓存、容器、消息队列，其他技能尚在开发中。
 
 
 
 -----
 
 ### 技能标签墙
-- ![Docker](https://img.shields.io/badge/Docker-%23-green.svg)
-- ![Springboot](https://img.shields.io/badge/Springboot-%23-green.svg)
-- ![Zookeeper](https://img.shields.io/badge/Zookeeper-%23-green.svg)
-- ![Nginx](https://img.shields.io/badge/Nginx-%23-green.svg)
-- ![Solr](https://img.shields.io/badge/Solr-%23-green.svg)
-- ![CAS](https://img.shields.io/badge/CAS-5.2-green.svg)
+- Docker
+- Springboot
+- Zookeeper
+- Nginx
+- Solr
+- CAS
 
 ...
 
